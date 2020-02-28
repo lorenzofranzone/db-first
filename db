@@ -1,0 +1,21 @@
+Tabel: Auto
+
+id				    num		      primary_key		  unique		  ai
+
+marca			    string	    varchar(20)		  NN
+
+modello	      string	    varchar(30) 	  NN
+
+tipologia	    string	    varchar(20)	
+
+data_immatr	  date	      year		        NN
+
+cilindrata	  float(6,1)
+
+posti	        num	        smallInt		    NN
+
+lunghezza	    num	        smallInt
+
+Larghezza	    num	        smallInt
+
+Peso	        num	        smallInt
